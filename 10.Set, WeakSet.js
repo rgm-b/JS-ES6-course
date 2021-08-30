@@ -60,4 +60,3 @@ console.log(testWeakSet.size);
 key2 = null;
 console.log(testWeakSet);
 console.log(testWeakSet.size);
-
